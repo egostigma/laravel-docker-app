@@ -1,4 +1,4 @@
-# laravel-app
+# laravel-docker-app
 
 ## Usage
 
